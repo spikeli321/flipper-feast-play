@@ -1,6 +1,7 @@
 {
-  "name": "Flipper Feast",
-  "short_name": "Flipper Feast",
+  "name": "弹珠盛宴 Flipper Feast",
+  "short_name": "弹珠盛宴",
+  "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
